@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <!-- Unique identifier for your mod -->
+    <packageId>SunPraise.AllowStonySkips</packageId>
+
+    <!-- Display name of your mod -->
+    <name>Allow Stony Skips</name>
+
+    <!-- Author(s) of the mod -->
+    <author>SunPraise</author>
+
+    <!-- Short description of your mod -->
+    <description>Modifies the LWM Skip item to allow construction from stone materials.</description>
+
+    <!-- URL to your mod's page or documentation -->
+    <url>No URL</url>
+
+    <!-- Version of your mod -->
+    <modVersion>1.0.0</modVersion>
+
+    <!-- RimWorld versions your mod supports -->
+    <supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+        <!-- Add more versions if supported -->
+    </supportedVersions>
+
+    <!-- Optional: Mod icon path -->
+    <!-- <modIconPath>Textures/YourModIcon.png</modIconPath> -->
+
+    <!-- Optional: Mod dependencies -->
+    <modDependencies>
+        <li>
+            <packageId>LWM.DeepStorage</packageId>
+            <displayName>LWM's Deep Storage</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1617282896</steamWorkshopUrl>
+        </li>
+        <!-- Add more dependencies as needed -->
+    </modDependencies>
+</ModMetaData>
